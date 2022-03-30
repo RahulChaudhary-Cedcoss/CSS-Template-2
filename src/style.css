@@ -1,11 +1,4 @@
-.main {
-    margin-left: 20%;
-    margin-right: 20%; 
-    margin-bottom: 0%;
-}
-#header {
-  padding-top: 40%;
-}
+
 li a {
   float: right;
   color: hsl(246deg 100% 56%);
@@ -15,64 +8,67 @@ li a {
 ul {
   list-style-type: none;
   margin-right: 5%;
-  margin-top: -6%;
+  margin-top: -7%;
 }
 
 #site {
-  margin-top: 5%;
+  margin-top: 4%;
   margin-left: 3%;
 }
 .content1 {
-  margin-top: 10%;
+    margin-top: 1%;
+  margin-top: 9%;
   margin-left: 3%;
   word-spacing: 0%;
   line-height: 2%;
+  background-color: hsl(0deg 0% 93%);;
 }
 #p1 {
   color: hsl(0deg 0% 9%);
   font-weight: bolder;
 }
+
 .first {
   float: left;
-  background: Red;
-  padding: 5% 10%;
+  background: hsl(0deg 0% 93%);;
+  padding: 3% 10%;
   margin: 2%;
 }
 .second {
   float: left;
-  background: Red;
-  padding: 5% 10%;
+  background: hsl(0deg 0% 93%);;
+  padding: 3% 10%;
   margin: 2%;
 }
 .third {
   float: left;
-  background: Red;
-  padding: 5% 10%;
+  background: hsl(0deg 0% 93%);;
+  padding: 3% 10%;
   margin: 2%;
 }
 .content2 {
-    padding-left: 10%;
+    padding-left: 20%;
 }
 .fourth {
     float: left;
-    background: Red;
-    padding: 1% 7%;
+    background: hsl(0deg 0% 93%);;
+    padding: 0% 5%;
     margin: 2%;
     text-align: center;
     line-height: 0%;
   }
   .fifth {
     float: left;
-    background: Red;
-    padding: 1% 7%;
+    background: hsl(0deg 0% 93%);;
+    padding: 0% 7%;
     margin: 2%;
     text-align: center;
     line-height: 0%;
   }
   .sixth {
     float: left;
-    background: Red;
-    padding: 1% 7%;
+    background: hsl(0deg 0% 93%);;
+    padding: 0% 7%;
     margin: 2%;
     text-align: center;
     line-height: 0%;
@@ -80,3 +76,12 @@ ul {
   .content3 {
       left: 50%;
   }
+  .subscribe {
+      float: left;
+      background-color: hsl(0deg 0% 93%);
+  }
+  .bottom {
+      line-height: 0%;
+      float: left;
+  }
+  
