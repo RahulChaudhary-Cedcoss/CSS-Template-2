@@ -1,0 +1,19 @@
+#header {
+    padding-top: 40%;
+}
+li a {
+    float: right;
+    color: hsl(246deg 100% 56%);
+    display: block;
+    padding: 1%;
+}
+ul {
+    list-style-type: none;
+    margin-right: 5%;
+    margin-top: -6%;
+}
+
+#site {
+    margin-top: 5%;
+    margin-left: 3%;
+}
