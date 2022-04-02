@@ -1,8 +1,7 @@
-
  .main {
     margin-right: 2%;
     margin-top: -2%;
-  }
+ }
   li a {
     float: right;
     color: hsl(246deg 100% 56%);
@@ -17,7 +16,6 @@
     margin-top: 0%;
     padding-top: 0%;
   }
-  
   #site {
     margin-top: 4%;
     margin-left: 3%;
@@ -90,39 +88,42 @@
     .content3 {
         left: 50%;
     }
-    .subscribe {
-      position: absolute;
-      top: 78%;
-      margin-left: 2%;
-      background-color: hsl(0deg 0% 93%);;;
-      padding-left: 15%;
-      padding-right: 49%;
-      padding-top: 0.5%;
+    .sub {
+      background-color: hsl(0deg 0% 93%);
       padding-bottom: 0%;
+      margin-top: 10%;
+      margin-left: 2%;
     }
-    #subs {
-      font-size: 25px;
-      font-weight: bolder;
+    .sub-up {
+      margin-top: 20%;
+      padding-top: 1%;
     }
-    #final {
-      background-color:hsl(205deg 68% 48%);
-      color: white;
-      display: inline-block;
-    }
-    
-    .button {
-      display: block;
-      margin-top: 23.5%;
-  
-    }
-    .copy {
-      float: left;
-      margin-left: 8%;
-      top: 60%;
-    }
-    .ced {
-      float: right;
-      margin-right: 10%;
+    .sub-bt {
+      width: 100%;
       margin-top: 0%;
-      top: 80%;
+      padding: 0%;
     }
+    #copy {
+      float: left;
+      width: 30%;
+    }
+    #ced {
+      float: right;
+      margin-right: 3%;
+      width: 30%;
+      text-align: right;
+    }
+     .sub-form {
+       margin-right: 4%;
+       float: right;
+       width: 60%;
+       text-align: left;
+       margin-top: 0.6%;
+     }
+     #subscribe {
+       margin-top: 4px;
+       float: left;
+       margin-bottom: 0%;
+       width: 33%;
+       text-align: end;
+     }
